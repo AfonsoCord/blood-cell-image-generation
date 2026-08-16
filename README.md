@@ -1,4 +1,4 @@
-# Project 2: Generating Blood Cell Images
+# Project: Generating Blood Cell Images
 
 Implementation and comparison of three generative approaches, a Variational AutoEncoder, a Generative Adversarial Network, and a Denoising Diffusion Probabilistic Model, trained to generate images of blood cells across 8 cell classes.
 
